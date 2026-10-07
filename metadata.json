@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Sanctum",
+  "description": "An enduring intelligence institution and geospatial decision platform for observing living systems, making trustworthy decisions, coordinating institutional action, and verifying regenerative impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
